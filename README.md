@@ -1,6 +1,6 @@
 # Fair Value Hedge
 
-A fair value hedge is a hedge of the exposure to changes in the fair value of a recognized asset, liability, or unrecognized firm commitment. Changes in fair value of derivatives that do not meet the criteria of one of these three categories of hedges are included in income. 
+A fair value hedge is a hedge of the exposure to changes in the fair value of a recognized asset, liability, or unrecognized firm commitment. Changes in fair value of derivatives, such as bariier option https://finpricing.com/lib/EqBarrier.html, that do not meet the criteria of one of these three categories of hedges are included in income. 
 
 When hedging exposures associated with the price of an asset, liability, or firm commitment, the total gain or loss on the derivative is recorded in earnings. In addition, the underlying exposure due to the risk being hedged must also be marked-to-market to the extent of the change due to the risk being hedged; and these results flow through current income as well. This treatment is called a fair value hedge.
 
@@ -37,14 +37,6 @@ Presumably, a higher  would lead to greater confidence that the optimal hedge
 
 In calculating the mean portfolio return (MPR), the average risk attributed fair value of the hedge pair is computed using the 50 scenarios generated in the historical simulation. The mean portfolio return is parallel to the portfolio return in the retrospective test, providing information regarding the fair value changes of the hedge pair relative to the initial value of the hedged item.
 
-
-Reference:
-
-https://finpricing.com/lib/EqBarrier.html
-
-https://zenodo.org/record/6547047/files/fairValueHedge.pdf
-
-https://zenodo.org/record/6547047#.YpDvGKgpDq4
 
 
 
